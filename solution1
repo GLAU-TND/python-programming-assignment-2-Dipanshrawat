@@ -1,4 +1,4 @@
-#problem 1
+
 
 t=eval(input())
 b=[min(t)]
